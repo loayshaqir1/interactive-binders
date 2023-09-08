@@ -4,10 +4,6 @@
 __all__ = ['get_term_list_string', 'RelationDeclaration', 'Relation', 'IERelation', 'AddFact', 'RemoveFact', 'Query', 'Rule',
            'Assignment', 'ReadAssignment']
 
-# %% ../../../../../../../nbs/01_ast_node_types.ipynb 4
-
-from fastcore.utils import patch
-
 # %% ../../../../../../../nbs/01_ast_node_types.ipynb 5
 from typing import List, Tuple, Set, Union, Sequence
 from .primitive_types import DataTypes, DataTypeMapping, Span
