@@ -4,7 +4,7 @@
 __all__ = ['logger', 'AddRulesToTermGraph']
 
 # %% ../../../../../../../nbs/11_adding_inference_rules_to_term_graph.ipynb 3
-from fastcore.utils import *
+
 
 # %% ../../../../../../../nbs/11_adding_inference_rules_to_term_graph.ipynb 4
 import logging

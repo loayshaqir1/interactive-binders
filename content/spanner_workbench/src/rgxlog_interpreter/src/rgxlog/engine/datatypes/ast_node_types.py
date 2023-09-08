@@ -5,7 +5,7 @@ __all__ = ['get_term_list_string', 'RelationDeclaration', 'Relation', 'IERelatio
            'Assignment', 'ReadAssignment']
 
 # %% ../../../../../../../nbs/01_ast_node_types.ipynb 4
-from nbdev.showdoc import *
+
 from fastcore.utils import patch
 
 # %% ../../../../../../../nbs/01_ast_node_types.ipynb 5

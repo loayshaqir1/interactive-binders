@@ -4,7 +4,7 @@
 __all__ = ['PruneUnnecessaryProjectNodes', 'RemoveUselessRelationsFromRule']
 
 # %% ../../../../../../../nbs/10_optimizations_passes.ipynb 3
-from fastcore.utils import *
+
 
 # %% ../../../../../../../nbs/10_optimizations_passes.ipynb 4
 from typing import Any, Set, Union, List, Tuple

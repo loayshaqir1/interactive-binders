@@ -9,7 +9,7 @@ __all__ = ['get_tree', 'GenericPass', 'VisitorPass', 'VisitorRecursivePass', 'In
            'ResolveVariablesReferences', 'ExecuteAssignments', 'AddStatementsToNetxParseGraph']
 
 # %% ../../../../../../../nbs/09_lark_passes.ipynb 4
-from fastcore.utils import *
+
 
 # %% ../../../../../../../nbs/09_lark_passes.ipynb 5
 from abc import ABC, abstractmethod

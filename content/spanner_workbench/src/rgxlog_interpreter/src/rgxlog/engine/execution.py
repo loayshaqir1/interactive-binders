@@ -4,7 +4,7 @@
 __all__ = ['OUT_REL_ATTRIBUTE', 'FREE_VAR_PREFIX', 'naive_execution']
 
 # %% ../../../../../../nbs/12_execution.ipynb 3
-from fastcore.utils import *
+
 
 # %% ../../../../../../nbs/12_execution.ipynb 5
 from typing import (Tuple, Dict, List, Callable, Optional, Union)
