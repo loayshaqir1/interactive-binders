@@ -1,0 +1,36 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - section: Tutorials
+        contents:
+        - introduction.ipynb
+        - live_repl.ipynb
+      - section: src
+        contents:
+          - section: datatypes
+            contents:
+              - 00_primitive_types.ipynb
+              - 01_ast_node_types.ipynb
+          - section: passes
+            contents:
+              - 09_lark_passes.ipynb
+              - 10_optimizations_passes.ipynb
+              - 11_adding_inference_rules_to_term_graph.ipynb
+          - section: state
+            contents:
+              - 06_graphs.ipynb
+              - 03_symbol_table.ipynb
+          - section: utils
+            contents:
+              - 05_expected_grammar.ipynb
+              - 04_general_utils.ipynb
+              - 08_passes_utils.ipynb
+          - section: stdlib
+            contents:
+              - 17_rust_spanner_regex.ipynb
+          - 07_engine.ipynb
+          - 12_execution.ipynb
+          - 02_ie_function.ipynb
+
+
