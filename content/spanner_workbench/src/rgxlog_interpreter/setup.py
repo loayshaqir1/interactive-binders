@@ -56,12 +56,11 @@ setuptools.setup(
         'networkx',
         'docopt',
         'tabulate',
-        'pandas',
         'jsonpath-ng',
         'psutil',
         'install-jdk',
         'spanner-nlp>=0.0.6',
-        'Jinja2'
+        'Jinja2',
     ],
     dependency_links=[
     ]
