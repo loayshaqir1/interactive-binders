@@ -51,3 +51,4 @@ jsonpath_ng
 networkx
 pandas
 asmaa
+magdoub
